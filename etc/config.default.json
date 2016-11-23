@@ -1,0 +1,14 @@
+{
+  "api": {
+    "method": "string",
+    "middleware": "function"
+  },
+  "mysql":{
+    "connectionLimit":2,
+    "acquireTimeout":2000,
+    "host": "localhost",
+    "user": "root",
+    "password": "hit",
+    "database": "work"
+  }
+}
